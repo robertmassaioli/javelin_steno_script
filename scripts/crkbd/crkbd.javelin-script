@@ -650,7 +650,7 @@ const ALPHABETIC_WORKMAN = 3;
 
 const ALPHABETIC_COUNT = 4;
 
-var layout = ALPHABETIC_QWERTY;
+var layout = ALPHABETIC_DVORAK;
 
 const buttonScanCodes = [[
   2b 2b 2b 2b   // Button 0: Tab
